@@ -1,2 +1,6 @@
 # chat_main
-Chat utilizando nodejs
+
+## Necessario nodejs para inicar
+
+Chat utilizando nodejs, para iniciar execute npm install e depois npm start
+
